@@ -4,3 +4,7 @@ This is a controller board with 3 keys and 3 LEDs, the LEDs display a number fro
 
 
 ![Schematic](https://github.com/LayanJethwa/binary-counter/blob/main/schematic.png)
+
+![PCB](https://github.com/LayanJethwa/binary-counter/blob/main/pcb.png)
+
+![3D model](https://github.com/LayanJethwa/binary-counter/blob/main/3d-model.png)
